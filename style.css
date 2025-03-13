@@ -1,0 +1,44 @@
+h2 {
+  font-size:25px;
+}
+  .logo{
+    display:flex;
+    justify-content:space-around;
+    background:rgb(94, 16, 8);
+    font-size: 120px;
+
+  }
+  nav{
+    display:flex;
+    justify-content:space-around;
+    z-index: 999;
+    background:rgb(94, 16, 8);
+    position:sticky;
+    font-size: 60px;
+    top:0;
+    text-decoration: none;
+
+  }
+  a{
+    text-decoration: none;
+    color:white;
+    font-size: 60px;
+    font-family: "Dorsa", serif;
+    font-weight: 800;
+    font-style: normal;
+    }
+    .cont {
+      width:70%;
+      background:#9e9e9eff;
+      //change this color maybe just so you can see where everything is
+      height:100000px;
+      margin: 0 auto;
+      
+    }
+    .tscreen{
+      width:60%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
