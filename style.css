@@ -3,6 +3,9 @@ h2 {
   display:flex;
   justify-content:space-around;
 }
+body {
+  background-color: #9e9e9eff; /* Sets the background of the page to grey */
+}
   .logo{
     display:flex;
     justify-content:space-around;
@@ -33,7 +36,7 @@ h2 {
       width:70%;
       background:#9e9e9eff;
       //change this color maybe just so you can see where everything is
-      height:1000000000px;
+      height:1000px;
       margin: 0 auto;
       
     }
@@ -59,4 +62,12 @@ h2 {
     display: none;
 
   }
-  
+  .q1{
+    display:flex;
+    justify-content:space-around;
+    background:#9e9e9eff;
+    font-size: 40px;
+    width:70%;
+    margin: 0 auto;
+
+  }
