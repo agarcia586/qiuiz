@@ -80,3 +80,7 @@ body {
       display: block; /* Makes the button a block element */
       margin: 0 auto; /* Centers horizontally */
   }
+  .timemessage {
+    color: #d9534f;
+    margin-top: 10px;
+}
