@@ -1,7 +1,10 @@
-h2 {
+h2, h3, p {
   font-size:25px;
   display:flex;
   justify-content:space-around;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
 }
 body {
   background-color: #9e9e9eff; /* Sets the background of the page to grey */
