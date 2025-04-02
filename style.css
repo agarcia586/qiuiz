@@ -47,7 +47,7 @@ body {
       margin-right: auto;
       width: 50%;
     }
-    .button {
+    .button, .old, .modern, .Rbutt, .Sbutt, .Hbutt, .Pbutt {
       background-color: #ab0009;
       color: white;
       border: none;
