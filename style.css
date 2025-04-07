@@ -5,6 +5,9 @@ h2, h3, p {
   margin: auto;
   width: 50%;
   padding: 10px;
+  font-family: "Caveat Brush", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 body {
   background-color: #9e9e9eff; /* Sets the background of the page to grey */
@@ -14,6 +17,10 @@ body {
     justify-content:space-around;
     background:rgb(94, 16, 8);
     font-size: 120px;
+    font-family: "Caveat Brush", cursive;
+    font-weight: 400;
+    font-style: normal;
+    
 
   }
   nav{
@@ -25,14 +32,15 @@ body {
     font-size: 60px;
     top:0;
     text-decoration: none;
+    
 
   }
   a{
     text-decoration: none;
     color:white;
     font-size: 60px;
-    font-family: "Dorsa", serif;
-    font-weight: 800;
+    font-family: "Caveat Brush", cursive;
+    font-weight: 400;
     font-style: normal;
     }
     .cont {
@@ -41,6 +49,9 @@ body {
       //change this color maybe just so you can see where everything is
       height:1000px;
       margin: 0 auto;
+      font-family: "Caveat Brush", cursive;
+      font-weight: 400;
+      font-style: normal;
       
     }
     .tscreen{
@@ -51,7 +62,7 @@ body {
       width: 50%;
     }
     .button, .old, .modern, .Rbutt, .Sbutt, .Hbutt, .Pbutt, .enter {
-      background-color: #ab0009;
+      background-color: #b85128ff;
       color: white;
       border: none;
       border-radius: 4px;
@@ -60,12 +71,18 @@ body {
       font-size: 24px;
       display: block; /* Makes the button a block element */
       margin: 0 auto; /* Centers horizontally */
+      font-family: "Caveat Brush", cursive;
+      font-weight: 400;
+      font-style: normal;
   }
 .ans{
       display: flex;
       justify-content: center;
     height:60px;
     font-size:164pt;
+    font-family: "Caveat Brush", cursive;
+    font-weight: 400;
+    font-style: normal;
       
   }
 .timebutton{
@@ -99,4 +116,9 @@ body {
   .timemessage {
     color: #d9534f;
     margin-top: 10px;
+}
+.q1{
+  font-family: "Caveat Brush", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
