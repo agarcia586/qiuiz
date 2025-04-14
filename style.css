@@ -1,4 +1,4 @@
-h2, h3, p {
+h2, h3, .buttons{
   font-size:25px;
   display:flex;
   justify-content:space-around;
@@ -49,9 +49,7 @@ body {
       //change this color maybe just so you can see where everything is
       height:1000px;
       margin: 0 auto;
-      font-family: "Caveat Brush", cursive;
-      font-weight: 400;
-      font-style: normal;
+
       
     }
     .tscreen{
@@ -122,3 +120,4 @@ body {
   font-weight: 400;
   font-style: normal;
 }
+.buttons
